@@ -1,3 +1,3 @@
-def calculator (i,x):
-    y = i + x
-    return y + 4
+def calc (x, i):
+    print(x*i)
+    return
